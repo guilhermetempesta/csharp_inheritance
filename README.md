@@ -1,3 +1,3 @@
-Exemplo de composição de Classes em C#
+Exemplo de Herança e Polimorfismo em C#
 
 - Entidades: Product, ImportedProduct, UsedProduct
